@@ -1,0 +1,783 @@
+[
+  {
+    "unit": 1,
+    "words": [
+      {
+        "english": "prevalent",
+        "chinese": "普遍的；盛行的"
+      },
+      {
+        "english": "constitute",
+        "chinese": "构成；组成；被视为"
+      },
+      {
+        "english": "derive",
+        "chinese": "源自；获得；推导"
+      },
+      {
+        "english": "perception",
+        "chinese": "感知；认知；看法"
+      },
+      {
+        "english": "accessible",
+        "chinese": "可到达的；易理解的；可使用的"
+      },
+      {
+        "english": "minimal",
+        "chinese": "极小的；极少的"
+      },
+      {
+        "english": "assume",
+        "chinese": "假定；承担；呈现"
+      },
+      {
+        "english": "exemplify",
+        "chinese": "举例说明；是… 的典范"
+      },
+      {
+        "english": "objective",
+        "chinese": "客观的；目标的；n. 目标；物镜"
+      },
+      {
+        "english": "rational",
+        "chinese": "理性的；合理的；n. 有理数"
+      },
+      {
+        "english": "characterize",
+        "chinese": "描述… 的特征；以… 为特征"
+      },
+      {
+        "english": "hazard",
+        "chinese": "危险；危害；v. 冒险提出；冒… 的风险"
+      },
+      {
+        "english": "expectation",
+        "chinese": "期待；预期；指望"
+      },
+      {
+        "english": "external",
+        "chinese": "外部的；外在的；n. 外部；外观"
+      },
+      {
+        "english": "initiate",
+        "chinese": "发起；开创；使加入；n. 新成员；入门者"
+      },
+      {
+        "english": "overview",
+        "chinese": "概述；综述"
+      },
+      {
+        "english": "alternative",
+        "chinese": "可供替代的；n. 替代品；选择"
+      },
+      {
+        "english": "gloomy",
+        "chinese": "昏暗的；沮丧的；前景黯淡的"
+      },
+      {
+        "english": "secure",
+        "chinese": "安全的；稳固的；v. 保护；获得；固定"
+      },
+      {
+        "english": "conception",
+        "chinese": "概念；构想；受孕"
+      },
+      {
+        "english": "proportion",
+        "chinese": "比例；部分；v. 使成比例；分配"
+      },
+      {
+        "english": "betray",
+        "chinese": "背叛；泄露；流露"
+      },
+      {
+        "english": "characteristic",
+        "chinese": "典型的；特有的；n. 特征；特性"
+      },
+      {
+        "english": "indicative",
+        "chinese": "指示的；象征的；n. 陈述语气"
+      },
+      {
+        "english": "assign",
+        "chinese": "分配；指派；指定"
+      },
+      {
+        "english": "presume",
+        "chinese": "假定；推测；擅自"
+      },
+      {
+        "english": "standpoint",
+        "chinese": "立场；观点"
+      },
+      {
+        "english": "integration",
+        "chinese": "整合；一体化；融合"
+      },
+      {
+        "english": "prior to",
+        "chinese": "在… 之前；先于"
+      },
+      {
+        "english": "attempt",
+        "chinese": "尝试；试图；v. 尝试；努力"
+      },
+      {
+        "english": "prerequisite",
+        "chinese": "必要的；前置的；n. 先决条件；前提"
+      },
+      {
+        "english": "exaggerate",
+        "chinese": "夸大；夸张"
+      },
+      {
+        "english": "render",
+        "chinese": "使成为；提供；渲染；翻译"
+      },
+      {
+        "english": "administer",
+        "chinese": "管理；执行；给予"
+      },
+      {
+        "english": "maximum",
+        "chinese": "最大的；最高的；n. 最大值；最大限度"
+      },
+      {
+        "english": "perceive",
+        "chinese": "感知；察觉；理解"
+      },
+      {
+        "english": "rank",
+        "chinese": "等级；军衔；v. 排列；评级；adj. 繁茂的；恶臭的"
+      },
+      {
+        "english": "preconception",
+        "chinese": "先入之见；预想"
+      },
+      {
+        "english": "preempt",
+        "chinese": "先发制人；抢占；预先制止"
+      }
+    ]
+  },
+  {
+    "unit": 2,
+    "words": [
+      {
+        "english": "incorporate",
+        "chinese": "包含；合并；使并入；adj. 合并的；一体化的"
+      },
+      {
+        "english": "embed",
+        "chinese": "嵌入；植入；使深留脑中"
+      },
+      {
+        "english": "enact",
+        "chinese": "制定（法律）；颁布；上演；实施"
+      },
+      {
+        "english": "virtual",
+        "chinese": "虚拟的；实际上的；实质上的"
+      },
+      {
+        "english": "outcome",
+        "chinese": "结果；结局；后果"
+      },
+      {
+        "english": "integrate",
+        "chinese": "使整合；使一体化；融入；adj. 整合的"
+      },
+      {
+        "english": "highlight",
+        "chinese": "强调；突出；使显著；n. 亮点；重点；高光部分"
+      },
+      {
+        "english": "approximately",
+        "chinese": "大约；近似地"
+      },
+      {
+        "english": "impact",
+        "chinese": "影响；冲击力；v. 影响；撞击；冲击"
+      },
+      {
+        "english": "attribute",
+        "chinese": "把… 归因于；认为… 是… 所为；n. 属性；特征；特质"
+      },
+      {
+        "english": "prompt",
+        "chinese": "促使；提示；激励；adj. 迅速的；立即的；n. 提示；提词"
+      },
+      {
+        "english": "representation",
+        "chinese": "代表；表现；描述；代表权"
+      },
+      {
+        "english": "incremental",
+        "chinese": "递增的；渐进的；增加的"
+      },
+      {
+        "english": "normative",
+        "chinese": "规范的；标准的"
+      },
+      {
+        "english": "component",
+        "chinese": "组成部分；组件；adj. 组成的；构成的"
+      },
+      {
+        "english": "assist",
+        "chinese": "帮助；协助；援助；n. 助攻；协助"
+      },
+      {
+        "english": "depict",
+        "chinese": "描绘；描述；刻画"
+      },
+      {
+        "english": "underlying",
+        "chinese": "潜在的；根本的；在下面的"
+      },
+      {
+        "english": "misconception",
+        "chinese": "误解；错误观念；错觉"
+      },
+      {
+        "english": "interconnect",
+        "chinese": "相互连接；互相联系；adj. 相互连接的"
+      },
+      {
+        "english": "target",
+        "chinese": "目标；靶子；对象；v. 瞄准；以… 为目标"
+      },
+      {
+        "english": "reconcile",
+        "chinese": "调和；使和解；使一致；使顺从"
+      },
+      {
+        "english": "gradual",
+        "chinese": "逐渐的；逐步的；平缓的"
+      },
+      {
+        "english": "interaction",
+        "chinese": "相互作用；互动；交流"
+      },
+      {
+        "english": "assess",
+        "chinese": "评估；评价；估价"
+      },
+      {
+        "english": "manipulate",
+        "chinese": "操纵；操控；处理；篡改"
+      },
+      {
+        "english": "represent",
+        "chinese": "代表；象征；表现；描绘"
+      },
+      {
+        "english": "trap",
+        "chinese": "陷阱；圈套；困境；v. 使陷入；诱捕；困住"
+      },
+      {
+        "english": "discrepant",
+        "chinese": "不一致的；有差异的"
+      },
+      {
+        "english": "reflection",
+        "chinese": "反射；反映；思考；倒影"
+      },
+      {
+        "english": "intermediate",
+        "chinese": "中间的；中级的；n. 中间体；中间人；v. 充当中间媒介"
+      },
+      {
+        "english": "modify",
+        "chinese": "修改；调整；修饰；改变"
+      },
+      {
+        "english": "contributor",
+        "chinese": "贡献者；捐献者；投稿人"
+      },
+      {
+        "english": "alternative",
+        "chinese": "可供替代的；n. 替代品；选择"
+      },
+      {
+        "english": "fluctuation",
+        "chinese": "波动；起伏；变动"
+      }
+    ]
+  },
+  {
+    "unit": 3,
+    "words": [
+      {
+        "english": "immune",
+        "chinese": "免疫的；不受影响的；免除的"
+      },
+      {
+        "english": "construct",
+        "chinese": "建造；构建；n. 构造物；构想"
+      },
+      {
+        "english": "persist",
+        "chinese": "坚持；持续存在"
+      },
+      {
+        "english": "supplement",
+        "chinese": "补充物；增刊；v. 补充；增补"
+      },
+      {
+        "english": "accumulation",
+        "chinese": "积累；堆积物"
+      },
+      {
+        "english": "refer",
+        "chinese": "参考；涉及；指的是"
+      },
+      {
+        "english": "guarantee",
+        "chinese": "保证；担保；n. 保证；担保物"
+      },
+      {
+        "english": "unintended",
+        "chinese": "非故意的；意外的"
+      },
+      {
+        "english": "hazard",
+        "chinese": "危险；危害；v. 冒险提出"
+      },
+      {
+        "english": "adverse",
+        "chinese": "不利的；有害的"
+      },
+      {
+        "english": "vital",
+        "chinese": "至关重要的；生命的"
+      },
+      {
+        "english": "fragmented",
+        "chinese": "支离破碎的；碎片化的"
+      },
+      {
+        "english": "allocate",
+        "chinese": "分配；分派"
+      },
+      {
+        "english": "presume",
+        "chinese": "假定；推测"
+      },
+      {
+        "english": "sensitive",
+        "chinese": "敏感的；易受影响的"
+      },
+      {
+        "english": "distribution",
+        "chinese": "分布；分配"
+      },
+      {
+        "english": "internal",
+        "chinese": "内部的；内在的"
+      },
+      {
+        "english": "mortality",
+        "chinese": "死亡率；必死性"
+      },
+      {
+        "english": "transfer",
+        "chinese": "转移；转让；n. 转移；换乘"
+      },
+      {
+        "english": "outweigh",
+        "chinese": "比… 更重要；超过"
+      },
+      {
+        "english": "undertake",
+        "chinese": "承担；从事；承诺"
+      },
+      {
+        "english": "inherent",
+        "chinese": "内在的；固有的"
+      },
+      {
+        "english": "trace",
+        "chinese": "追踪；追溯；n. 痕迹；踪迹"
+      },
+      {
+        "english": "subject",
+        "chinese": "主题；学科；v. 使臣服；adj. 受… 支配的"
+      },
+      {
+        "english": "extensive",
+        "chinese": "广泛的；大量的"
+      },
+      {
+        "english": "speculate",
+        "chinese": "推测；投机"
+      },
+      {
+        "english": "novel",
+        "chinese": "新奇的；新颖的；n. 小说"
+      },
+      {
+        "english": "stunt",
+        "chinese": "阻碍生长；n. 特技；噱头"
+      },
+      {
+        "english": "scheme",
+        "chinese": "计划；方案；v. 密谋；策划"
+      },
+      {
+        "english": "optimally",
+        "chinese": "最佳地；最优化地"
+      },
+      {
+        "english": "detrimental",
+        "chinese": "有害的；不利的"
+      },
+      {
+        "english": "pertain",
+        "chinese": "关于；从属"
+      },
+      {
+        "english": "establish",
+        "chinese": "建立；创立；确立"
+      },
+      {
+        "english": "offspring",
+        "chinese": "后代；子孙；产物"
+      }
+    ]
+  },
+  {
+    "unit": 4,
+    "words": [
+      {
+        "english": "underscore",
+        "chinese": "强调；下划线标注；n. 下划线"
+      },
+      {
+        "english": "eliminate",
+        "chinese": "消除；排除；淘汰"
+      },
+      {
+        "english": "prestige",
+        "chinese": "声望；威望；adj. 有声望的"
+      },
+      {
+        "english": "synonymous",
+        "chinese": "同义的；等同于的"
+      },
+      {
+        "english": "impoverish",
+        "chinese": "使贫困；使枯竭"
+      },
+      {
+        "english": "illiterate",
+        "chinese": "文盲的；不识字的；n. 文盲"
+      },
+      {
+        "english": "erroneously",
+        "chinese": "错误地；不正确地"
+      },
+      {
+        "english": "extol",
+        "chinese": "赞美；颂扬"
+      },
+      {
+        "english": "convincingly",
+        "chinese": "令人信服地；有说服力地"
+      },
+      {
+        "english": "unanimity",
+        "chinese": "一致同意；全体一致"
+      },
+      {
+        "english": "minimal",
+        "chinese": "极小的；极少的"
+      },
+      {
+        "english": "displacement",
+        "chinese": "取代；位移；排水量"
+      },
+      {
+        "english": "augmentation",
+        "chinese": "增加；扩大；增强"
+      },
+      {
+        "english": "attribute",
+        "chinese": "把… 归因于；n. 属性；特征"
+      },
+      {
+        "english": "critical",
+        "chinese": "批评的；关键的；危急的"
+      },
+      {
+        "english": "counseling",
+        "chinese": "咨询；辅导"
+      },
+      {
+        "english": "severe",
+        "chinese": "严重的；严厉的；严峻的"
+      },
+      {
+        "english": "extensive",
+        "chinese": "广泛的；大量的"
+      },
+      {
+        "english": "respondent",
+        "chinese": "受访者；被告；adj. 回应的"
+      },
+      {
+        "english": "assume",
+        "chinese": "假定；承担；呈现"
+      },
+      {
+        "english": "prevalence",
+        "chinese": "流行；普遍；盛行"
+      },
+      {
+        "english": "accord",
+        "chinese": "一致；给予；n. 协议；一致"
+      },
+      {
+        "english": "implicit",
+        "chinese": "含蓄的；隐含的；固有的"
+      },
+      {
+        "english": "militate",
+        "chinese": "有影响；起作用（常与 against 连用）"
+      },
+      {
+        "english": "discrepancy",
+        "chinese": "差异；不一致"
+      },
+      {
+        "english": "immense",
+        "chinese": "巨大的；广大的"
+      },
+      {
+        "english": "retain",
+        "chinese": "保持；保留；留住"
+      },
+      {
+        "english": "address",
+        "chinese": "解决；致辞；n. 地址；演讲"
+      },
+      {
+        "english": "identified",
+        "chinese": "已识别的；经鉴定的"
+      },
+      {
+        "english": "identify",
+        "chinese": "识别；确定；认同"
+      },
+      {
+        "english": "impoverished",
+        "chinese": "贫困的；赤贫的"
+      },
+      {
+        "english": "reverse",
+        "chinese": "反转；颠倒；n. 相反；adj. 相反的"
+      },
+      {
+        "english": "underprivileged",
+        "chinese": "贫困的；社会地位低下的"
+      },
+      {
+        "english": "thrive",
+        "chinese": "繁荣；兴旺；茁壮成长"
+      },
+      {
+        "english": "overwhelming",
+        "chinese": "压倒性的；势不可挡的"
+      },
+      {
+        "english": "dimension",
+        "chinese": "维度；尺寸；方面"
+      },
+      {
+        "english": "institute",
+        "chinese": "机构；研究所；v. 建立；制定"
+      },
+      {
+        "english": "heterogeneous",
+        "chinese": "异质的；多种多样的"
+      },
+      {
+        "english": "revise",
+        "chinese": "修改；修订；复习"
+      }
+    ]
+  },
+  {
+    "unit": 5,
+    "words": [
+      {
+        "english": "endemic",
+        "chinese": "地方性的；特有的；n. 地方病"
+      },
+      {
+        "english": "routinely",
+        "chinese": "常规地；例行地"
+      },
+      {
+        "english": "borderline",
+        "chinese": "边界；临界线；adj. 临界的；边界的"
+      },
+      {
+        "english": "proximity",
+        "chinese": "接近；邻近"
+      },
+      {
+        "english": "deceptive",
+        "chinese": "欺骗性的；欺诈的"
+      },
+      {
+        "english": "occurrence",
+        "chinese": "发生；事件；出现"
+      },
+      {
+        "english": "prepublication",
+        "chinese": "出版前的；n. 出版前阶段"
+      },
+      {
+        "english": "optimistic",
+        "chinese": "乐观的；乐观主义的"
+      },
+      {
+        "english": "proportion",
+        "chinese": "比例；部分；v. 使成比例"
+      },
+      {
+        "english": "reiterate",
+        "chinese": "重申；反复强调"
+      },
+      {
+        "english": "undermine",
+        "chinese": "逐渐削弱；暗中破坏"
+      },
+      {
+        "english": "clandestine",
+        "chinese": "秘密的；暗中的"
+      },
+      {
+        "english": "methodological",
+        "chinese": "方法论的；方法的"
+      },
+      {
+        "english": "fraudulent",
+        "chinese": "欺诈的；骗人的"
+      },
+      {
+        "english": "fabrication",
+        "chinese": "制造；捏造；伪造品"
+      },
+      {
+        "english": "intervene",
+        "chinese": "干涉；介入；干预"
+      },
+      {
+        "english": "privy",
+        "chinese": "知情的；私下的；n. 厕所"
+      },
+      {
+        "english": "collaborator",
+        "chinese": "合作者；协作者；通敌者"
+      },
+      {
+        "english": "detect",
+        "chinese": "察觉；发现；探测"
+      },
+      {
+        "english": "episode",
+        "chinese": "插曲；集；事件"
+      },
+      {
+        "english": "prevalence",
+        "chinese": "流行；普遍；盛行"
+      },
+      {
+        "english": "consequential",
+        "chinese": "随之发生的；重要的"
+      },
+      {
+        "english": "validity",
+        "chinese": "有效性；合法性；正确性"
+      },
+      {
+        "english": "responder",
+        "chinese": "回应者；应答器"
+      },
+      {
+        "english": "falsification",
+        "chinese": "伪造；歪曲；弄虚作假"
+      },
+      {
+        "english": "vicinity",
+        "chinese": "附近；邻近地区"
+      },
+      {
+        "english": "confidential",
+        "chinese": "机密的；保密的"
+      },
+      {
+        "english": "overzealous",
+        "chinese": "过分热情的；过于热心的"
+      },
+      {
+        "english": "deliberate",
+        "chinese": "故意的；深思熟虑的；v. 仔细考虑"
+      },
+      {
+        "english": "principal",
+        "chinese": "主要的；首要的；n. 校长；本金"
+      },
+      {
+        "english": "enormous",
+        "chinese": "巨大的；庞大的"
+      },
+      {
+        "english": "in a position",
+        "chinese": "能够；处于… 地位"
+      },
+      {
+        "english": "in accordance with",
+        "chinese": "按照；依据"
+      },
+      {
+        "english": "anonymous",
+        "chinese": "匿名的；无名的"
+      },
+      {
+        "english": "prior",
+        "chinese": "先前的；优先的；adv. 在前"
+      },
+      {
+        "english": "anonymity",
+        "chinese": "匿名；无名"
+      },
+      {
+        "english": "suppression",
+        "chinese": "压制；镇压；抑制"
+      },
+      {
+        "english": "respondent",
+        "chinese": "受访者；被告；adj. 回应的"
+      },
+      {
+        "english": "implication",
+        "chinese": "暗示；牵连；影响"
+      },
+      {
+        "english": "motive",
+        "chinese": "动机；目的；adj. 发动的"
+      },
+      {
+        "english": "disclose",
+        "chinese": "公开；揭露；透露"
+      },
+      {
+        "english": "be amenable to",
+        "chinese": "顺从的；经得起… 的"
+      }
+    ]
+  }
+]
